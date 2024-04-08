@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.M5_quiz_resources" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorOnPrimary">@color/whiteBackground</item>
+        <item name="colorSecondary">@color/violet</item>
+        <item name="fontFamily">@font/opensans_regular</item>
+    </style>
+
+    <style name="Theme.M5_quiz_resources" parent="Base.Theme.M5_quiz_resources" />
+</resources>
